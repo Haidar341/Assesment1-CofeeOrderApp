@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoffeeOrderApp</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="select_coffee_type">Select Coffee Type</string>
+    <string name="submit_button">Submit</string>
+    <string name="order_list">Order List</string>
+    <string name="invalid_input_message">Please enter your name</string>
+    <string name="back_button">Back</string>
+</resources>

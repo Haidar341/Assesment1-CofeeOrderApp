@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplikasiPesanKopi</string>
+    <string name="customer_name">Nama Pelanggan</string>
+    <string name="select_coffee_type">Pilih Jenis Kopi</string>
+    <string name="submit_button">Kirim</string>
+    <string name="order_list">Daftar Pesanan</string>
+    <string name="invalid_input_message">Silakan masukkan nama Anda</string>
+    <string name="back_button">Kembali</string>
+</resources>
